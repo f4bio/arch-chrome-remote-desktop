@@ -1,11 +1,10 @@
-#######
-###
+###### ################
 ##
-#
-# Maintainer: Ff Tt <ft2011 [at] gmail [dot] com>
-# thanks to: Mateus Rodrigues Costa <charles [dot] costar [at] gmail [dot] com>
-# https://aur.archlinux.org/packages/chrome-remote-desktop/
-#
+#	Ff Tt <ft2011 [at] gmail [dot] com>
+#        thanks to: Mateus Rodrigues Costa <charles [dot] costar [at] gmail [dot] com>
+#        https://aur.archlinux.org/packages/chrome-remote-desktop/
+##
+### ##########
 
 pkgname=chrome-remote-desktop
 pkgver=38.0.2125.9
