@@ -1,6 +1,6 @@
 ###### ################
 ##
-#	Ff Tt <ft2011 [at] gmail [dot] com>
+#        Ff Tt <ft2011 [at] gmail [dot] com>
 #        thanks to: Mateus Rodrigues Costa <charles [dot] costar [at] gmail [dot] com>
 #        https://aur.archlinux.org/packages/chrome-remote-desktop/
 ##
